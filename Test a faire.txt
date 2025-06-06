@@ -1,0 +1,39 @@
+-- Test pour Consigne 1 --
+0 = false
+100 = false
+200 = false
+300 = false
+400 = true
+800 = true
+1200 = true
+1600 = true
+
+-- Test pour Consigne 2 --
+0 = true
+100 = true
+200 = true
+300 = true
+400 = false
+800 = false
+1200 = false
+1600 = false
+
+-- Test pour Consigne 3 --
+0 = false
+1 = false
+2 = false
+4 = true
+8 = true
+12 = true
+16 = true
+100 = false
+
+-- Test pour Consigne 4 --
+0 = true
+1 = true
+2 = true
+3 = true
+4 = false
+8 = false
+12 = false
+16 = false
